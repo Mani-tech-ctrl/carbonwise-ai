@@ -1,0 +1,42 @@
+{
+  "units": {
+    "transport": "kg CO2e per km",
+    "energy": "kg CO2e per kWh",
+    "diet": "kg CO2e per day",
+    "waste": "kg CO2e per kg"
+  },
+  "factors": {
+    "transport": {
+      "car_petrol": 0.192,
+      "car_diesel": 0.171,
+      "car_ev": 0.053,
+      "motorcycle": 0.103,
+      "bus": 0.105,
+      "train": 0.041,
+      "flight_short": 0.255,
+      "flight_long": 0.150
+    },
+    "energy": {
+      "electricity_grid_us": 0.385,
+      "electricity_grid_uk": 0.233,
+      "electricity_grid_in": 0.820,
+      "natural_gas": 0.185,
+      "heating_oil": 0.254
+    },
+    "diet": {
+      "meat_heavy": 3.3,
+      "meat_average": 2.5,
+      "pescatarian": 1.9,
+      "vegetarian": 1.7,
+      "vegan": 1.5
+    },
+    "waste": {
+      "general": 0.58,
+      "recycling": 0.02
+    },
+    "shopping": {
+      "clothing": 15.0,
+      "electronics": 50.0
+    }
+  }
+}
