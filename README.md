@@ -153,7 +153,11 @@ CarbonWise AI empowers individuals to make informed environmental decisions by:
 
 ## 📸 Screenshots
 
-Add application screenshots here.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7f41a4f6-b1bb-4718-bd51-1a87dd1fd435" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/25bbab53-acb2-4def-a126-c20b9858976e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/32d29ada-6298-4bca-83aa-56680e81b9c4" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d795db4d-db2f-499c-95a4-b59029d34841" />
+
 
 ---
 
